@@ -13,7 +13,7 @@
     "inlineSourceMap": true,
     "inlineSources": true,
     "resolveJsonModule": true,
-    "types": ["jest", "reflect-metadata", "node"],
+    "types": ["jest", "reflect-metadata", "node", "cypress", "@types/testing-library__cypress"],
     "lib": ["esnext", "dom", "dom.iterable"],
     "rootDir": "src",
     "baseUrl": ".",
